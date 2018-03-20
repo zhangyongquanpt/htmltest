@@ -1,0 +1,80 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+192.168.3.11 sxcpg.m9n.com
+192.168.3.11 bjsy.m9n.com
+192.168.3.11 m9standardchangchun.m9n.com
+192.168.3.11 szxml.m9n.com
+192.168.3.11 ccadgj.m9n.com
+192.168.3.11 hebmkx.m9n.com
+192.168.3.11 crmtest.m9n.com
+192.168.3.11 szjy.m9n.com
+192.168.3.11 jnxml.m9n.com
+192.168.3.11 bjdqe.m9n.com
+192.168.3.11 sjzzhangleihf.m9n.com
+192.168.3.11 kszhongtian.m9n.com
+192.168.3.11 gzjqnew.m9n.com
+192.168.3.11 svnmanager.m9n.com
+192.168.3.11 szsg.m9n.com
+192.168.3.11 anhuisuzhou.m9n.com
+192.168.3.11 anhui.m9n.com
+192.168.3.11 m9standardtianjin.m9n.com
+192.168.3.11 bjcy.m9n.com
+192.168.3.11 jilinccgj.m9n.com
+192.168.3.11 svnmanager.m9n.com
+192.168.3.11 bjjgm.m9n.com
+192.168.3.11 bjlhhc.m9n.com
+192.168.3.11 nanjing.m9n.com
+192.168.3.11 whjdcm.m9n.com
+192.168.3.11 shdjd.m9n.com
+192.168.3.11 sjzlzz3.m9n.com
+192.168.3.11 m9standardsjzfj.m9n.com
+192.168.3.11 anshan.m9n.com
+192.168.3.11 bjrmdx.m9n.com
+192.168.3.11 gznc.m9n.com
+192.168.3.11 cchwyb.m9n.com
+192.168.3.11 ccsswy.m9n.com
+192.168.3.11 jilinbx.m9n.com
+192.168.3.11 fuzhou.m9n.com
+192.168.3.11 gzjqnew.m9n.com
+192.168.0.10 test.db.com
+192.168.3.11 m9n.support.com
+192.168.3.11 gzdfh.m9n.com
+192.168.3.11 bjkjzg.m9n.com
+192.168.3.11 csjxb.m9n.com
+192.168.3.11 bjady.m9n.com
+192.168.3.11 ludenew.m9n.com
+192.168.3.11 whjdcm.m9n.com
+192.168.3.11 kszhongtian.m9n.com
+192.168.3.11 m9standardjmd.m9n.com
+192.168.3.11 gzqiankang.m9n.com
+192.168.3.11 xjwlmq.m9n.com
+192.168.3.11 lycksm.m9n.com
+192.168.3.11 crmtest.m9n.com
+192.168.5.35 crmdb.crm.com
+192.168.3.11 zhengzhouxxy.m9n.com
+192.168.3.11 m9standardzhengzhou.m9n.com
+192.168.3.11 fuzhou.m9n.com
+192.168.3.11 sccdipcc.m9n.com
+192.168.3.11 ncjjyg.m9n.com
+
+127.0.0.1 www.ceshitest.com
+127.0.0.1 www.app.com
